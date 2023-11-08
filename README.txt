@@ -1,8 +1,8 @@
 Project: Geometry Dash
 Names:
 
-Eviatar Davidyan  207259755
-Shir Yadid  208327957
+Eviatar Davidyan 
+Shir Yadid  
 
 Game instructions:
 The goal of the game: to reach the end of the stage as quickly as possible with as many coins as possible.
